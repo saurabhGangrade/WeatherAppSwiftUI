@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  WeatherAppSwiftUI
+
+  Created by Saurabh Gangrade on 19/12/24.
+  
+*/
+
+"No internet connection" = "No internet connection";
+"No Internet" = "No Internet";
+"Please check your internet connection" = "Please check your internet connection";
+"Ok" = "Ok";
+
+"Try again" = "Try again";
+"Loading..." = "Loading...";
+"Now" = "Now";
+"Today" = "Today";
+
+"Search for a city" = "Search for a city";
+"No selected city found." = "No selected city found.";
+"No weather data found." = "No weather data found.";
+"An error occurred while fetching weather data." = "An error occurred while fetching weather data.";
